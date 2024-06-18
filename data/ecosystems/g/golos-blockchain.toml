@@ -23,9 +23,13 @@ url = "https://github.com/golos-blockchain/chain-node"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/chainbb"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/desktop"
+
+[[repo]]
+url = "https://github.com/golos-blockchain/dex-lib"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/dexbot"
@@ -38,6 +42,7 @@ url = "https://github.com/golos-blockchain/golos-classic-js"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/golos-notify-rest"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/golos-witness-tools"
@@ -65,9 +70,11 @@ url = "https://github.com/golos-blockchain/links"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-session"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/notify"

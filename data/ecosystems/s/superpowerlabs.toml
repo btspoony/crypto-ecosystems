@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/superpowerlabs"]
 url = "https://github.com/superpowerlabs/allow-list-raffle"
 
 [[repo]]
+url = "https://github.com/superpowerlabs/ape-market-core"
+
+[[repo]]
 url = "https://github.com/superpowerlabs/arg-3-app"
 
 [[repo]]
@@ -17,6 +20,7 @@ url = "https://github.com/superpowerlabs/bc-genesis"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bc-genesis-raffle-reveal"
+missing = true
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bcsample"

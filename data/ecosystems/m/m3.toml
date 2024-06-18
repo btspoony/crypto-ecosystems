@@ -76,7 +76,13 @@ url = "https://github.com/M3-org/hyperfy-docs"
 url = "https://github.com/M3-org/hypewheels"
 
 [[repo]]
+url = "https://github.com/M3-org/lofi-hacklab"
+
+[[repo]]
 url = "https://github.com/M3-org/logistics"
+
+[[repo]]
+url = "https://github.com/M3-org/loot-assets"
 
 [[repo]]
 url = "https://github.com/M3-org/lootproject-website"
@@ -113,6 +119,9 @@ url = "https://github.com/M3-org/merch"
 
 [[repo]]
 url = "https://github.com/M3-org/mml"
+
+[[repo]]
+url = "https://github.com/M3-org/msf-assets"
 
 [[repo]]
 url = "https://github.com/M3-org/onhyper"
@@ -179,3 +188,6 @@ url = "https://github.com/M3-org/website"
 
 [[repo]]
 url = "https://github.com/M3-org/webxr-lobby"
+
+[[repo]]
+url = "https://github.com/M3-org/yard-sale"

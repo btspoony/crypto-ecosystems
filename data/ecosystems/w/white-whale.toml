@@ -11,6 +11,7 @@ url = "https://github.com/White-Whale-Defi-Platform/.github"
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/Analysis-Tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/cosmos-automations"
@@ -49,6 +50,9 @@ url = "https://github.com/White-Whale-Defi-Platform/migaloo-frontend"
 url = "https://github.com/White-Whale-Defi-Platform/migaloo-networks"
 
 [[repo]]
+url = "https://github.com/White-Whale-Defi-Platform/migaloo-paint"
+
+[[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/pool-network"
 
 [[repo]]
@@ -77,3 +81,6 @@ url = "https://github.com/White-Whale-Defi-Platform/white-whale-docs"
 
 [[repo]]
 url = "https://github.com/White-Whale-Defi-Platform/white-whale-frontend"
+
+[[repo]]
+url = "https://github.com/White-Whale-Defi-Platform/white-whale-periphery"

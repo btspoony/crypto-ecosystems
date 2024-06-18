@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Berachain Foundation"
 
-sub_ecosystems = []
+sub_ecosystems = ["DipDup"]
 
 github_organizations = ["https://github.com/berachain"]
 
@@ -11,6 +11,7 @@ url = "https://github.com/berachain/.github"
 
 [[repo]]
 url = "https://github.com/berachain/berachain-local"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/chainlink-testing-framework"
@@ -25,22 +26,28 @@ url = "https://github.com/berachain/cosmos-sdk"
 url = "https://github.com/berachain/default-token-list"
 
 [[repo]]
+url = "https://github.com/berachain/default-validator-list"
+
+[[repo]]
 url = "https://github.com/berachain/devnet-in-a-box"
 
 [[repo]]
 url = "https://github.com/berachain/ERC4626"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/erigon"
 
 [[repo]]
 url = "https://github.com/berachain/ethermint"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/ethspam"
 
 [[repo]]
 url = "https://github.com/berachain/flywheel-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/go-ethereum"
@@ -53,12 +60,17 @@ url = "https://github.com/berachain/go-utils"
 
 [[repo]]
 url = "https://github.com/berachain/goreleaser-pro-cross"
+missing = true
+
+[[repo]]
+url = "https://github.com/berachain/guides"
 
 [[repo]]
 url = "https://github.com/berachain/hive"
 
 [[repo]]
 url = "https://github.com/berachain/homebrew-tap"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/mev-geth"
@@ -68,6 +80,7 @@ url = "https://github.com/berachain/modular-summit-workshop-2023"
 
 [[repo]]
 url = "https://github.com/berachain/node-config"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/offchain-sdk"
@@ -89,9 +102,11 @@ url = "https://github.com/berachain/polaris-reth"
 
 [[repo]]
 url = "https://github.com/berachain/prb-math"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/pystarport"
+missing = true
 
 [[repo]]
 url = "https://github.com/berachain/swe-guidelines"

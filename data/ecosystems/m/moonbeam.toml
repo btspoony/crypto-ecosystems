@@ -5,11 +5,13 @@ sub_ecosystems = [
   "1beam",
   "1Swap",
   "ACryptoS",
-  "AirGap",
+  "Airlyft",
   "Amara Finance",
+  "API3",
   "Apillon",
   "Authtrail",
   "Auto",
+  "Axelar Network",
   "Banksea Finance",
   "BeamSwap",
   "Bepro Network",
@@ -17,45 +19,67 @@ sub_ecosystems = [
   "Bitquery",
   "Bware Labs",
   "Cask",
+  "Celer Network cBridge",
   "Certhum",
   "Chaotic Finance",
+  "Chimoney",
   "Collectify",
   "Convergence Finance",
+  "Cora Protocol",
   "Cougar Swap",
   "COVA",
   "Cover Compared",
+  "Cruzo",
   "crystyl.finance",
+  "Curve",
+  "DAM Finance",
   "DefiYield",
   "Demodyfi",
+  "Diode",
   "Exiled Racers",
+  "Fidi",
   "Firefly",
+  "Frax",
   "Galxe",
+  "Gamma Strategies",
   "Huckleberry",
+  "Human Protocol",
   "IBetYou",
+  "Impossible Finance",
+  "Karma HQ",
   "Klever",
-  "Kodadot",
+  "LayerZero",
+  "Lido",
+  "Lucky Friday",
   "Lunardex",
   "MidasProtocol",
+  "Minimax Finance",
   "Minterest Finance",
   "MixBytes",
   "Moonbeans",
   "Moonfarmin",
+  "Moonfit",
   "Moonsama",
   "Moonwell",
   "Mystiko",
   "MyTrade",
   "Narwhalswap",
+  "Nomad",
   "Novasama Technologies",
+  "Omnisea",
   "OnFinality",
+  "Orbiter One",
+  "PixFi",
   "Polkadotters",
   "Polkamarkets",
   "Polkassembly",
-  "Protofire",
   "Qoda",
   "Raresama",
   "Razor Network",
+  "Redstone Finance",
   "RMRK Team",
   "Ryabina",
+  "Scion",
   "Seascape Network",
   "Solarbeam",
   "StellaSwap",
@@ -66,21 +90,33 @@ sub_ecosystems = [
   "Transak",
   "TrueStaking",
   "Unifty",
+  "Uniswap",
   "Vulture Finance",
   "Web3Go",
+  "Witnet",
+  "Wormhole",
   "XDAO",
   "Yield Bay",
   "Zenlink",
   "Zircon",
   "ZKValidator",
+  "Zoodao",
   "Zoombies",
 ]
 
-github_organizations = ["https://github.com/PureStake"]
+github_organizations = [
+  "https://github.com/moonbeam-foundation",
+  "https://github.com/Moonsong-Labs",
+  "https://github.com/papermoonio",
+  "https://github.com/PureStake",
+]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Block-Bird/moonbeam-solo-chain"
+url = "https://github.com/AsadAli-BB/moonbeam-solo-chain"
+
+[[repo]]
+url = "https://github.com/asadalisiyal/moonbeam-solo-chain"
 
 [[repo]]
 url = "https://github.com/AstarNetwork/Astar"
@@ -98,12 +134,6 @@ url = "https://github.com/ChaosDAO-org/subscrape"
 url = "https://github.com/deb0x/dbXenBurnerProject"
 
 [[repo]]
-url = "https://github.com/Desig-Labs/supported-chains"
-
-[[repo]]
-url = "https://github.com/DuanYuFi/GPT-Web"
-
-[[repo]]
 url = "https://github.com/klasikzeki/denemeastr"
 
 [[repo]]
@@ -114,6 +144,15 @@ url = "https://github.com/manuelhb14/moonbridge"
 
 [[repo]]
 url = "https://github.com/merc1er/moonsama-gain-calculator"
+
+[[repo]]
+url = "https://github.com/meterio/passport-service"
+
+[[repo]]
+url = "https://github.com/meterio/Passportv2Contracts"
+
+[[repo]]
+url = "https://github.com/moonbeam-foundation/app-directory-data"
 
 [[repo]]
 url = "https://github.com/moonbeam-foundation/cli-ts-signer"
@@ -182,6 +221,9 @@ url = "https://github.com/moonbeam-foundation/moonbeam-docs-ru"
 url = "https://github.com/moonbeam-foundation/moonbeam-intro-course-resources"
 
 [[repo]]
+url = "https://github.com/moonbeam-foundation/moonbeam-poc"
+
+[[repo]]
 url = "https://github.com/moonbeam-foundation/moonbeam-presentations"
 
 [[repo]]
@@ -227,7 +269,19 @@ url = "https://github.com/moonbeam-foundation/substrate"
 url = "https://github.com/moonbeam-foundation/treasury"
 
 [[repo]]
+url = "https://github.com/moonbeam-foundation/xcm-sdk"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/block-explorers"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/cairo-vm"
+
+[[repo]]
 url = "https://github.com/Moonsong-Labs/chopsticks"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/compilers"
 
 [[repo]]
 url = "https://github.com/Moonsong-Labs/cumulus"
@@ -237,6 +291,9 @@ url = "https://github.com/Moonsong-Labs/era-test-node"
 
 [[repo]]
 url = "https://github.com/Moonsong-Labs/glacis"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/madara-prover-api"
 
 [[repo]]
 url = "https://github.com/Moonsong-Labs/moon-command-bot"
@@ -254,6 +311,9 @@ url = "https://github.com/Moonsong-Labs/moonscope"
 url = "https://github.com/Moonsong-Labs/moonwall"
 
 [[repo]]
+url = "https://github.com/Moonsong-Labs/moonwall-ext"
+
+[[repo]]
 url = "https://github.com/Moonsong-Labs/open-runtime-module-library"
 
 [[repo]]
@@ -263,7 +323,22 @@ url = "https://github.com/Moonsong-Labs/polkadot"
 url = "https://github.com/Moonsong-Labs/polkadotJsApi"
 
 [[repo]]
+url = "https://github.com/Moonsong-Labs/probachain"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/seeding"
+
+[[repo]]
 url = "https://github.com/Moonsong-Labs/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/storage-hub"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/storage-hub-design-proposal"
+
+[[repo]]
+url = "https://github.com/Moonsong-Labs/storage-hub-runtime-poc"
 
 [[repo]]
 url = "https://github.com/Moonsong-Labs/substrate"
@@ -275,7 +350,10 @@ url = "https://github.com/Moonsong-Labs/toml_sort"
 url = "https://github.com/Moonsong-Labs/xcm-tools"
 
 [[repo]]
-url = "https://github.com/papermoonio/build-moonbeam-docs-site"
+url = "https://github.com/papermoonio/build-docs-site"
+
+[[repo]]
+url = "https://github.com/papermoonio/collaboration"
 
 [[repo]]
 url = "https://github.com/papermoonio/communal-ban-bot"
@@ -284,13 +362,28 @@ url = "https://github.com/papermoonio/communal-ban-bot"
 url = "https://github.com/papermoonio/data-retention-discord-bot"
 
 [[repo]]
+url = "https://github.com/papermoonio/demo-docs"
+
+[[repo]]
+url = "https://github.com/papermoonio/devrel-indexers"
+
+[[repo]]
+url = "https://github.com/papermoonio/docs-reports"
+
+[[repo]]
+url = "https://github.com/papermoonio/documentation-style-guide"
+
+[[repo]]
 url = "https://github.com/papermoonio/expedition"
 
 [[repo]]
-url = "https://github.com/papermoonio/moonbase-mintableERC20"
+url = "https://github.com/papermoonio/external-files"
 
 [[repo]]
-url = "https://github.com/papermoonio/moonbeam-docs-reports"
+url = "https://github.com/papermoonio/metamask-extension"
+
+[[repo]]
+url = "https://github.com/papermoonio/moonbase-mintableERC20"
 
 [[repo]]
 url = "https://github.com/papermoonio/moonbeam-docs-test-suite"
@@ -326,7 +419,25 @@ url = "https://github.com/papermoonio/moonlotto-subgraph"
 url = "https://github.com/papermoonio/multichain-hello-world-interface"
 
 [[repo]]
+url = "https://github.com/papermoonio/pallet-toggle"
+
+[[repo]]
+url = "https://github.com/papermoonio/polkadot-sdk-solo-template"
+
+[[repo]]
+url = "https://github.com/papermoonio/polkadot-sdk-solo-template-dev-courses"
+
+[[repo]]
 url = "https://github.com/papermoonio/substrate-api-sidecar"
+
+[[repo]]
+url = "https://github.com/papermoonio/substrate-primary-15-homework"
+
+[[repo]]
+url = "https://github.com/papermoonio/tanssi-dashboard"
+
+[[repo]]
+url = "https://github.com/papermoonio/tanssi-mkdocs"
 
 [[repo]]
 url = "https://github.com/papermoonio/walletconnect-example-dapp"
@@ -336,6 +447,12 @@ url = "https://github.com/papermoonio/wormhole-example-relayer-engine"
 
 [[repo]]
 url = "https://github.com/parity-asia/hackathon-2022-summer"
+
+[[repo]]
+url = "https://github.com/ParityAsia/hackathon-2022-summer"
+
+[[repo]]
+url = "https://github.com/Polkadot-Blockchain-Academy/Academy-PoW"
 
 [[repo]]
 url = "https://github.com/PureStake/algosigner"
@@ -349,6 +466,7 @@ url = "https://github.com/PureStake/algosigner-dapp-example"
 
 [[repo]]
 url = "https://github.com/PureStake/api-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/PureStake/app-ethereum"

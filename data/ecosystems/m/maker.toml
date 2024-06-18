@@ -35,6 +35,7 @@ url = "https://github.com/diffusioncon/DAI-Daddy-MakerDAO"
 
 [[repo]]
 url = "https://github.com/efemero/cdp-equalizer"
+missing = true
 
 [[repo]]
 url = "https://github.com/frostiq/makerdao-superdashboard"
@@ -53,6 +54,7 @@ url = "https://github.com/Kaisle/node-dai"
 
 [[repo]]
 url = "https://github.com/lollike/dss-blow"
+missing = true
 
 [[repo]]
 url = "https://github.com/Lollike/maker-support-functions-ui"
@@ -140,6 +142,7 @@ url = "https://github.com/makerdao/chainlog-ui"
 
 [[repo]]
 url = "https://github.com/makerdao/chickencoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/chief"
@@ -209,6 +212,7 @@ url = "https://github.com/makerdao/dai-plugin-walletconnect"
 
 [[repo]]
 url = "https://github.com/makerdao/dai-plugin-walletlink"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/dai-protocol-formalization"
@@ -218,9 +222,11 @@ url = "https://github.com/makerdao/dai-ql"
 
 [[repo]]
 url = "https://github.com/makerdao/dai-redeemer"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/dai-twine"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/dai-ui"
@@ -230,6 +236,7 @@ url = "https://github.com/makerdao/dai.js"
 
 [[repo]]
 url = "https://github.com/makerdao/demanding-auction"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/deployed-collateral-contracts"
@@ -263,6 +270,7 @@ url = "https://github.com/makerdao/dockerized-dapphub-tools"
 
 [[repo]]
 url = "https://github.com/makerdao/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/documentation"
@@ -296,6 +304,7 @@ url = "https://github.com/makerdao/ds-weth"
 
 [[repo]]
 url = "https://github.com/makerdao/dsr"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/dsr-manager"
@@ -439,6 +448,9 @@ url = "https://github.com/makerdao/dss-ward"
 url = "https://github.com/makerdao/endgame-docs"
 
 [[repo]]
+url = "https://github.com/makerdao/endgame-toolkit"
+
+[[repo]]
 url = "https://github.com/makerdao/esm"
 
 [[repo]]
@@ -467,6 +479,7 @@ url = "https://github.com/makerdao/exchange-callees"
 
 [[repo]]
 url = "https://github.com/makerdao/faq-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/feed-history"
@@ -476,12 +489,15 @@ url = "https://github.com/makerdao/feed-manual"
 
 [[repo]]
 url = "https://github.com/makerdao/feed-repeater"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/feed-repeater-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/feed-slides"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/feeds-old"
@@ -524,6 +540,7 @@ url = "https://github.com/makerdao/gov-polling-generator"
 
 [[repo]]
 url = "https://github.com/makerdao/gov-submitter"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/governance-dashboard"
@@ -539,6 +556,7 @@ url = "https://github.com/makerdao/governance-portal-v2"
 
 [[repo]]
 url = "https://github.com/makerdao/hackathons"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/helper-scripts"
@@ -548,9 +566,11 @@ url = "https://github.com/makerdao/hubot-doge-utility-functions"
 
 [[repo]]
 url = "https://github.com/makerdao/hubot-feedbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/hubot-makerdao-cdp-alert"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/ilk-registry"
@@ -625,6 +645,9 @@ url = "https://github.com/makerdao/line-spell"
 url = "https://github.com/makerdao/liquidations-portal"
 
 [[repo]]
+url = "https://github.com/makerdao/lockstake"
+
+[[repo]]
 url = "https://github.com/makerdao/loop-verification-tutorial"
 
 [[repo]]
@@ -635,15 +658,19 @@ url = "https://github.com/makerdao/maker-499"
 
 [[repo]]
 url = "https://github.com/makerdao/maker-darts"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/maker-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/maker-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/maker-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/maker-keeper"
@@ -653,6 +680,7 @@ url = "https://github.com/makerdao/maker-lpc"
 
 [[repo]]
 url = "https://github.com/makerdao/maker-market-matcher"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/maker-user"
@@ -666,6 +694,7 @@ url = "https://github.com/makerdao/MakerDAO-SourceCred-bot"
 
 [[repo]]
 url = "https://github.com/makerdao/makerDAO-splash"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/makerdao-status"
@@ -696,6 +725,7 @@ url = "https://github.com/makerdao/mcd-collateral"
 
 [[repo]]
 url = "https://github.com/makerdao/mcd-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/mcd-docs-content"
@@ -738,6 +768,7 @@ url = "https://github.com/makerdao/mkr-authority"
 
 [[repo]]
 url = "https://github.com/makerdao/MKR-CI"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/mkr-mcd-spec"
@@ -761,25 +792,38 @@ url = "https://github.com/makerdao/multicall"
 url = "https://github.com/makerdao/multicall.js"
 
 [[repo]]
+url = "https://github.com/makerdao/next-gen-atlas"
+
+[[repo]]
 url = "https://github.com/makerdao/nextjs-daijs-dai-ui-example"
 
 [[repo]]
 url = "https://github.com/makerdao/nft-adapter"
 
 [[repo]]
+url = "https://github.com/makerdao/ngt"
+
+[[repo]]
 url = "https://github.com/makerdao/nix-docker-image"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/nixpkgs"
 
 [[repo]]
+url = "https://github.com/makerdao/nst"
+
+[[repo]]
 url = "https://github.com/makerdao/oasis-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/oasis-deploy-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/oasis-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/oasis-orderbook-killer"
@@ -807,6 +851,7 @@ url = "https://github.com/makerdao/osm-mom"
 
 [[repo]]
 url = "https://github.com/makerdao/Overview-of-MakerDAO-design"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/parity-ethereum"
@@ -843,9 +888,11 @@ url = "https://github.com/makerdao/poa-dapps-voting"
 
 [[repo]]
 url = "https://github.com/makerdao/poker"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/poker-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/price-feed"
@@ -858,6 +905,7 @@ url = "https://github.com/makerdao/protocol-metadata"
 
 [[repo]]
 url = "https://github.com/makerdao/protocolsafety"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/provider-engine"
@@ -873,6 +921,7 @@ url = "https://github.com/makerdao/proxy-registry"
 
 [[repo]]
 url = "https://github.com/makerdao/proxy-registry-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/pyexchange"
@@ -912,6 +961,7 @@ url = "https://github.com/makerdao/sai-proxy"
 
 [[repo]]
 url = "https://github.com/makerdao/sai-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/sai-values-aggregator"
@@ -957,6 +1007,7 @@ url = "https://github.com/makerdao/simpledex-ui-example"
 
 [[repo]]
 url = "https://github.com/makerdao/sites-viewer"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/sourcecred"
@@ -1044,18 +1095,21 @@ url = "https://github.com/makerdao/token-choice"
 
 [[repo]]
 url = "https://github.com/makerdao/token-escrow"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/token-faucet"
 
 [[repo]]
 url = "https://github.com/makerdao/token-options"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/token-tests"
 
 [[repo]]
 url = "https://github.com/makerdao/token-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/tx-manager"
@@ -1065,6 +1119,9 @@ url = "https://github.com/makerdao/uniswap-price-feed"
 
 [[repo]]
 url = "https://github.com/makerdao/univ2-lp-oracle"
+
+[[repo]]
+url = "https://github.com/makerdao/univ2-pool-migrator"
 
 [[repo]]
 url = "https://github.com/makerdao/univ3-lp-oracle"
@@ -1092,6 +1149,7 @@ url = "https://github.com/makerdao/vdb-oasis-transformers"
 
 [[repo]]
 url = "https://github.com/makerdao/vdb-postgraphile"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/vdb-transformer-utilities"
@@ -1116,9 +1174,11 @@ url = "https://github.com/makerdao/vulcanizedb"
 
 [[repo]]
 url = "https://github.com/makerdao/web-gui"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/wiki"
+missing = true
 
 [[repo]]
 url = "https://github.com/makerdao/wormhole-integration-tests"
@@ -1191,6 +1251,7 @@ url = "https://github.com/OasisDEX/oasis-tax"
 
 [[repo]]
 url = "https://github.com/OasisDEX/oasis-trade-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/OasisDEX/OasisTradeDigitalAssessmentFramework"
@@ -1209,6 +1270,7 @@ url = "https://github.com/OasisDEX/tx-manager"
 
 [[repo]]
 url = "https://github.com/OasisDEX/vulcan.spec"
+missing = true
 
 [[repo]]
 url = "https://github.com/OasisDEX/vulcan0x"

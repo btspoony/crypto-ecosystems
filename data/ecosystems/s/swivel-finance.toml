@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/Swivel-Finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Swivel-Finance/connect"
+
+[[repo]]
 url = "https://github.com/Swivel-Finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/Swivel-Finance/destributor"
+
+[[repo]]
+url = "https://github.com/Swivel-Finance/eslint-config"
 
 [[repo]]
 url = "https://github.com/Swivel-Finance/frontend-homework-starter"
@@ -20,6 +26,9 @@ url = "https://github.com/Swivel-Finance/gost"
 
 [[repo]]
 url = "https://github.com/Swivel-Finance/illuminate"
+
+[[repo]]
+url = "https://github.com/Swivel-Finance/illuminate-js"
 
 [[repo]]
 url = "https://github.com/Swivel-Finance/IllumiNFT"

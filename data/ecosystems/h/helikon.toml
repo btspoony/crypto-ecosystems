@@ -17,6 +17,7 @@ url = "https://github.com/helikon-labs/chainviz"
 
 [[repo]]
 url = "https://github.com/helikon-labs/chainviz-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/config"
@@ -26,21 +27,26 @@ url = "https://github.com/helikon-labs/cumulus"
 
 [[repo]]
 url = "https://github.com/helikon-labs/dotsama-ibp"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/encointer-parachain"
 
 [[repo]]
 url = "https://github.com/helikon-labs/fearless-Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/fearless-iOS"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/fearless-utils-Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/fearless-utils-iOS"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/Grant-Milestone-Delivery"
@@ -52,7 +58,13 @@ url = "https://github.com/helikon-labs/Grants-Program"
 url = "https://github.com/helikon-labs/helikon-web"
 
 [[repo]]
+url = "https://github.com/helikon-labs/HydraDX-node"
+
+[[repo]]
 url = "https://github.com/helikon-labs/ibp-monitor"
+
+[[repo]]
+url = "https://github.com/helikon-labs/khala-parachain"
 
 [[repo]]
 url = "https://github.com/helikon-labs/newsletter"
@@ -61,7 +73,19 @@ url = "https://github.com/helikon-labs/newsletter"
 url = "https://github.com/helikon-labs/PackageList"
 
 [[repo]]
+url = "https://github.com/helikon-labs/paseo-runtimes"
+
+[[repo]]
+url = "https://github.com/helikon-labs/polimec-binaries"
+
+[[repo]]
 url = "https://github.com/helikon-labs/polkadot"
+
+[[repo]]
+url = "https://github.com/helikon-labs/polkadot-cloud-library"
+
+[[repo]]
+url = "https://github.com/helikon-labs/polkadot-js-apps"
 
 [[repo]]
 url = "https://github.com/helikon-labs/polkadot-kusama-1kv-telegram-bot"
@@ -71,6 +95,7 @@ url = "https://github.com/helikon-labs/polkadot-nomination-kicker"
 
 [[repo]]
 url = "https://github.com/helikon-labs/polkadot-staking-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/polkadot-wiki"
@@ -113,6 +138,7 @@ url = "https://github.com/helikon-labs/subvt-ios"
 
 [[repo]]
 url = "https://github.com/helikon-labs/subvt-telemetry"
+missing = true
 
 [[repo]]
 url = "https://github.com/helikon-labs/subvt-web"

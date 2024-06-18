@@ -10,7 +10,14 @@ github_organizations = ["https://github.com/open-chat-labs"]
 url = "https://github.com/open-chat-labs/auto-changelog"
 
 [[repo]]
+url = "https://github.com/open-chat-labs/auto-storage"
+missing = true
+
+[[repo]]
 url = "https://github.com/open-chat-labs/cycles-dispenser"
+
+[[repo]]
+url = "https://github.com/open-chat-labs/event-store"
 
 [[repo]]
 url = "https://github.com/open-chat-labs/frame-host"
@@ -52,6 +59,12 @@ url = "https://github.com/open-chat-labs/peerjs-server"
 url = "https://github.com/open-chat-labs/priv-ic"
 
 [[repo]]
+url = "https://github.com/open-chat-labs/rollup-plugin-styles"
+
+[[repo]]
+url = "https://github.com/open-chat-labs/signals-integration"
+
+[[repo]]
 url = "https://github.com/open-chat-labs/simple-market-maker"
 
 [[repo]]
@@ -59,3 +72,6 @@ url = "https://github.com/open-chat-labs/svelte-markdown"
 
 [[repo]]
 url = "https://github.com/open-chat-labs/transaction-notifier"
+
+[[repo]]
+url = "https://github.com/open-chat-labs/video-bridge"

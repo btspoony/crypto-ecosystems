@@ -13,6 +13,12 @@ url = "https://github.com/pastelnetwork/ansible_playbook_for_initial_setup_of_fr
 url = "https://github.com/pastelnetwork/bitcoinjs-lib-pastel"
 
 [[repo]]
+url = "https://github.com/pastelnetwork/bobbyorr-backend-smartcontract"
+
+[[repo]]
+url = "https://github.com/pastelnetwork/bobbyorr-smart-contract"
+
+[[repo]]
 url = "https://github.com/pastelnetwork/build-zstd-dictionary"
 
 [[repo]]
@@ -32,6 +38,9 @@ url = "https://github.com/pastelnetwork/gateway-api"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/gateway-deployment"
+
+[[repo]]
+url = "https://github.com/pastelnetwork/gateway-sdk-py"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/go-commons"
@@ -71,6 +80,7 @@ url = "https://github.com/pastelnetwork/nats-server"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/node-stratum-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/pastelnetwork/openapi"
@@ -115,7 +125,13 @@ url = "https://github.com/pastelnetwork/Pastel-pool"
 url = "https://github.com/pastelnetwork/pastel-rpc-doc"
 
 [[repo]]
+url = "https://github.com/pastelnetwork/pastel-rpc-rest-wrapper"
+
+[[repo]]
 url = "https://github.com/pastelnetwork/pastel-seeder"
+
+[[repo]]
+url = "https://github.com/pastelnetwork/pastel_script_to_scan_chain_for_fees_and_burn"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/pastel_solana_archival_data_integration_api"
@@ -134,6 +150,9 @@ url = "https://github.com/pastelnetwork/pnip"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/pqsignatures"
+
+[[repo]]
+url = "https://github.com/pastelnetwork/psl_total_supply_calculation"
 
 [[repo]]
 url = "https://github.com/pastelnetwork/raptorq"

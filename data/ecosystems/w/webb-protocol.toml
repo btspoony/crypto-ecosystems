@@ -32,6 +32,7 @@ url = "https://github.com/webb-tools/anonymity-mining"
 
 [[repo]]
 url = "https://github.com/webb-tools/anonymity-mining-fixtures"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/api"
@@ -64,6 +65,9 @@ url = "https://github.com/webb-tools/centipede"
 url = "https://github.com/webb-tools/cggmp-threshold-ecdsa"
 
 [[repo]]
+url = "https://github.com/webb-tools/chains"
+
+[[repo]]
 url = "https://github.com/webb-tools/circomlib"
 
 [[repo]]
@@ -86,6 +90,7 @@ url = "https://github.com/webb-tools/cumulus"
 
 [[repo]]
 url = "https://github.com/webb-tools/curv"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/dkg-substrate"
@@ -119,6 +124,9 @@ url = "https://github.com/webb-tools/frontier"
 
 [[repo]]
 url = "https://github.com/webb-tools/fs-dkr"
+
+[[repo]]
+url = "https://github.com/webb-tools/gadget"
 
 [[repo]]
 url = "https://github.com/webb-tools/grandpa-bridge-gadget"
@@ -215,6 +223,7 @@ url = "https://github.com/webb-tools/relayer"
 
 [[repo]]
 url = "https://github.com/webb-tools/relayer-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/webb-tools/research"
@@ -274,6 +283,9 @@ url = "https://github.com/webb-tools/substrate-fixtures"
 url = "https://github.com/webb-tools/substrate-node-template"
 
 [[repo]]
+url = "https://github.com/webb-tools/substrate-v1.0.0"
+
+[[repo]]
 url = "https://github.com/webb-tools/subxt"
 
 [[repo]]
@@ -290,6 +302,9 @@ url = "https://github.com/webb-tools/tangle-network-ops"
 
 [[repo]]
 url = "https://github.com/webb-tools/tornado-core"
+
+[[repo]]
+url = "https://github.com/webb-tools/ts-SaaS"
 
 [[repo]]
 url = "https://github.com/webb-tools/webb-dapp"
@@ -341,3 +356,4 @@ url = "https://github.com/webb-tools/ZKJobs"
 
 [[repo]]
 url = "https://github.com/webb-tools/zksaas"
+missing = true

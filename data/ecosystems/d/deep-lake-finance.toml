@@ -7,4 +7,11 @@ github_organizations = ["https://github.com/Deep-Lake-Finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Deep-Lake-Finance/api-issues"
+
+[[repo]]
 url = "https://github.com/Deep-Lake-Finance/docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/Deep-Lake-Finance/Issues"

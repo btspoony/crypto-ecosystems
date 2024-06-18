@@ -22,7 +22,13 @@ url = "https://github.com/dentproject/dentOS"
 url = "https://github.com/dentproject/docs"
 
 [[repo]]
+url = "https://github.com/dentproject/docs.dent.dev"
+
+[[repo]]
 url = "https://github.com/dentproject/feature"
+
+[[repo]]
+url = "https://github.com/dentproject/hldd"
 
 [[repo]]
 url = "https://github.com/dentproject/linux"

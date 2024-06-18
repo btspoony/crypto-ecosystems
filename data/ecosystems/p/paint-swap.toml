@@ -22,6 +22,12 @@ url = "https://github.com/PaintSwap/estfor-discord-bot"
 url = "https://github.com/PaintSwap/ethereum-blocks"
 
 [[repo]]
+url = "https://github.com/PaintSwap/fantom-sonic-contracts"
+
+[[repo]]
+url = "https://github.com/PaintSwap/fantom-sonic-frontend"
+
+[[repo]]
 url = "https://github.com/PaintSwap/paintswap-changelogs"
 
 [[repo]]
@@ -38,3 +44,6 @@ url = "https://github.com/PaintSwap/paintswap-marketplace-listener"
 
 [[repo]]
 url = "https://github.com/PaintSwap/paintswap-subgraph"
+
+[[repo]]
+url = "https://github.com/PaintSwap/samwitch-orderbook"

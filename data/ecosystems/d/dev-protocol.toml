@@ -88,6 +88,9 @@ url = "https://github.com/dev-protocol/awesome-cheatsheets"
 url = "https://github.com/dev-protocol/awesome-docker"
 
 [[repo]]
+url = "https://github.com/dev-protocol/awesome-nodejs"
+
+[[repo]]
 url = "https://github.com/dev-protocol/AWESOME-QUANT"
 
 [[repo]]
@@ -130,6 +133,9 @@ url = "https://github.com/dev-protocol/bitcoin-abc"
 url = "https://github.com/dev-protocol/bitcoin-abc-1"
 
 [[repo]]
+url = "https://github.com/dev-protocol/Bitcoin-Depot"
+
+[[repo]]
 url = "https://github.com/dev-protocol/bitcoin-sv"
 
 [[repo]]
@@ -169,6 +175,9 @@ url = "https://github.com/dev-protocol/builders.devprotocol.xyz"
 url = "https://github.com/dev-protocol/bundled-ethers"
 
 [[repo]]
+url = "https://github.com/dev-protocol/bundled-web3auth-modal"
+
+[[repo]]
 url = "https://github.com/dev-protocol/C-Plus-Plus-forML"
 
 [[repo]]
@@ -205,7 +214,17 @@ url = "https://github.com/dev-protocol/clubs-core"
 url = "https://github.com/dev-protocol/clubs-demo"
 
 [[repo]]
+url = "https://github.com/dev-protocol/clubs-emailer"
+
+[[repo]]
+url = "https://github.com/dev-protocol/clubs-kyc"
+
+[[repo]]
 url = "https://github.com/dev-protocol/clubs-monorepo"
+missing = true
+
+[[repo]]
+url = "https://github.com/dev-protocol/clubs-plugin-awesome-onboarding"
 
 [[repo]]
 url = "https://github.com/dev-protocol/clubs-plugin-buy"
@@ -214,7 +233,13 @@ url = "https://github.com/dev-protocol/clubs-plugin-buy"
 url = "https://github.com/dev-protocol/clubs-plugin-posts"
 
 [[repo]]
+url = "https://github.com/dev-protocol/clubs-plugin-posts-voting"
+
+[[repo]]
 url = "https://github.com/dev-protocol/clubs-plugin-starter-kit"
+
+[[repo]]
+url = "https://github.com/dev-protocol/clubs-plugin-web3auth"
 
 [[repo]]
 url = "https://github.com/dev-protocol/clubs-teaser"
@@ -257,6 +282,9 @@ url = "https://github.com/dev-protocol/community-stats"
 
 [[repo]]
 url = "https://github.com/dev-protocol/connect-chatgpt-to-internet"
+
+[[repo]]
+url = "https://github.com/dev-protocol/connectedhomeip"
 
 [[repo]]
 url = "https://github.com/dev-protocol/convert-on-transfer"
@@ -367,6 +395,9 @@ url = "https://github.com/dev-protocol/discord-market"
 url = "https://github.com/dev-protocol/discord.js"
 
 [[repo]]
+url = "https://github.com/dev-protocol/discord_bot"
+
+[[repo]]
 url = "https://github.com/dev-protocol/django-backend"
 
 [[repo]]
@@ -383,6 +414,9 @@ url = "https://github.com/dev-protocol/docs.devprotocol.xyz"
 
 [[repo]]
 url = "https://github.com/dev-protocol/documentation"
+
+[[repo]]
+url = "https://github.com/dev-protocol/dot-globe"
 
 [[repo]]
 url = "https://github.com/dev-protocol/draft-proposals"
@@ -431,6 +465,12 @@ url = "https://github.com/dev-protocol/ElectrumABC"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ElectrumABC-1"
+
+[[repo]]
+url = "https://github.com/dev-protocol/esm-crypto-browserify"
+
+[[repo]]
+url = "https://github.com/dev-protocol/esm-elliptic"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ESP-RFID-Tool"
@@ -488,6 +528,9 @@ url = "https://github.com/dev-protocol/gendou"
 
 [[repo]]
 url = "https://github.com/dev-protocol/gendou-app"
+
+[[repo]]
+url = "https://github.com/dev-protocol/genmega-sdk"
 
 [[repo]]
 url = "https://github.com/dev-protocol/github-market"
@@ -572,6 +615,9 @@ url = "https://github.com/dev-protocol/ink"
 
 [[repo]]
 url = "https://github.com/dev-protocol/installer"
+
+[[repo]]
+url = "https://github.com/dev-protocol/InteractiveMap"
 
 [[repo]]
 url = "https://github.com/dev-protocol/invitation-registry"
@@ -659,6 +705,12 @@ url = "https://github.com/dev-protocol/komodo-wallet-mobile"
 
 [[repo]]
 url = "https://github.com/dev-protocol/kops"
+
+[[repo]]
+url = "https://github.com/dev-protocol/lamassu-coins"
+
+[[repo]]
+url = "https://github.com/dev-protocol/lamassu-server"
 
 [[repo]]
 url = "https://github.com/dev-protocol/langchain-mini"
@@ -827,6 +879,9 @@ url = "https://github.com/dev-protocol/nym"
 
 [[repo]]
 url = "https://github.com/dev-protocol/oasis-full-stack-task-main"
+
+[[repo]]
+url = "https://github.com/dev-protocol/odoo"
 
 [[repo]]
 url = "https://github.com/dev-protocol/ogpimage-stakessocial"
@@ -1078,6 +1133,9 @@ url = "https://github.com/dev-protocol/SwiftBTC"
 url = "https://github.com/dev-protocol/tailwind-landing-page-template"
 
 [[repo]]
+url = "https://github.com/dev-protocol/template-repos-cjs-esm"
+
+[[repo]]
 url = "https://github.com/dev-protocol/template-repos-static"
 
 [[repo]]
@@ -1124,6 +1182,7 @@ url = "https://github.com/dev-protocol/ultrasonic-ios"
 
 [[repo]]
 url = "https://github.com/dev-protocol/upgrader"
+missing = true
 
 [[repo]]
 url = "https://github.com/dev-protocol/URL-Shortner"

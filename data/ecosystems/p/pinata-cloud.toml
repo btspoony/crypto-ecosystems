@@ -46,13 +46,25 @@ url = "https://github.com/PinataCloud/mypinata"
 url = "https://github.com/PinataCloud/pinata-api-starter"
 
 [[repo]]
+url = "https://github.com/PinataCloud/pinata-app-router-starter"
+
+[[repo]]
 url = "https://github.com/PinataCloud/pinata-cli"
 
 [[repo]]
 url = "https://github.com/PinataCloud/pinata-ghost-storage"
 
 [[repo]]
+url = "https://github.com/PinataCloud/pinata-go-cli"
+
+[[repo]]
 url = "https://github.com/PinataCloud/pinata-hosted-docs"
+
+[[repo]]
+url = "https://github.com/PinataCloud/pinata-lit-protocol-solana-template"
+
+[[repo]]
+url = "https://github.com/PinataCloud/pinata-lit-protocol-template"
 
 [[repo]]
 url = "https://github.com/PinataCloud/pinata-nft-minting-app-template"
@@ -65,6 +77,7 @@ url = "https://github.com/PinataCloud/pinata-starter"
 
 [[repo]]
 url = "https://github.com/PinataCloud/pinata-submarine"
+missing = true
 
 [[repo]]
 url = "https://github.com/PinataCloud/PinataImageHasher"
@@ -86,6 +99,7 @@ url = "https://github.com/PinataCloud/starship_syndicate"
 
 [[repo]]
 url = "https://github.com/PinataCloud/submarine-me"
+missing = true
 
 [[repo]]
 url = "https://github.com/PinataCloud/Vue-IPFS-Example"

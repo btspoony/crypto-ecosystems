@@ -3,7 +3,10 @@ title = "Calimero Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/calimero-is-near"]
+github_organizations = [
+    "https://github.com/calimero-is-near",
+    "https://github.com/calimero-network",
+]
 
 # Repositories
 [[repo]]
@@ -28,13 +31,18 @@ url = "https://github.com/calimero-is-near/calimero-sdk"
 url = "https://github.com/calimero-is-near/calimero-sdk-rs"
 
 [[repo]]
+url = "https://github.com/calimero-is-near/calimero-wallet-utils"
+
+[[repo]]
 url = "https://github.com/calimero-is-near/chat-ui-kit-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/calimero-is-near/docs"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/events-indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/calimero-is-near/FT"
@@ -77,6 +85,9 @@ url = "https://github.com/calimero-is-near/near-wallet"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/nearcore"
+
+[[repo]]
+url = "https://github.com/calimero-is-near/PortalComponents"
 
 [[repo]]
 url = "https://github.com/calimero-is-near/read-rpc"

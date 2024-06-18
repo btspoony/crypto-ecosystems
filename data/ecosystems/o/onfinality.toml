@@ -22,6 +22,10 @@ url = "https://github.com/OnFinality-io/action-onf-release-sample"
 url = "https://github.com/OnFinality-io/amazon-vpc-cni-k8s"
 
 [[repo]]
+url = "https://github.com/OnFinality-io/api-nft"
+missing = true
+
+[[repo]]
 url = "https://github.com/OnFinality-io/apps"
 
 [[repo]]
@@ -67,6 +71,9 @@ url = "https://github.com/OnFinality-io/query-initializer"
 url = "https://github.com/OnFinality-io/solana"
 
 [[repo]]
+url = "https://github.com/OnFinality-io/subspace"
+
+[[repo]]
 url = "https://github.com/OnFinality-io/substrate-acad-workshop-polkadot-js"
 
 [[repo]]
@@ -86,4 +93,3 @@ url = "https://github.com/OnFinality-io/terraform-provider-stripe"
 
 [[repo]]
 url = "https://github.com/OnFinality-io/upper"
-

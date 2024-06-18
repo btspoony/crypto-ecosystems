@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/chainstack"]
 # Repositories
 [[repo]]
 url = "https://github.com/chainstack/apeworx-ape-chainstack-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/apeworx-chainstack-plugin"
@@ -62,6 +63,7 @@ url = "https://github.com/chainstack/cronos-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/cronos-docker-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/debug-trace-transactions-Erigon-webapp"
@@ -131,6 +133,7 @@ url = "https://github.com/chainstack/fabric-bootcamp-chaincode"
 
 [[repo]]
 url = "https://github.com/chainstack/fabric-sdk-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/fantom-opera-docker"
@@ -232,6 +235,9 @@ url = "https://github.com/chainstack/no-ticket-scalping-cordapp"
 url = "https://github.com/chainstack/node-lympic"
 
 [[repo]]
+url = "https://github.com/chainstack/op-erigon-docker"
+
+[[repo]]
 url = "https://github.com/chainstack/postgres-exporter-docker"
 
 [[repo]]
@@ -242,9 +248,11 @@ url = "https://github.com/chainstack/programmatic-nft-minter"
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-in-minutes-showcase"
@@ -292,6 +300,9 @@ url = "https://github.com/chainstack/starknet-cairo-odyssey"
 url = "https://github.com/chainstack/starknet-graph-node"
 
 [[repo]]
+url = "https://github.com/chainstack/strimzi-kafka-connect"
+
+[[repo]]
 url = "https://github.com/chainstack/tezos-chart"
 
 [[repo]]
@@ -305,6 +316,10 @@ url = "https://github.com/chainstack/trackerslist"
 
 [[repo]]
 url = "https://github.com/chainstack/tx-propagation-benchmarking"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/wazuh-agent-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/web3j-getLatestBlock"
@@ -314,3 +329,6 @@ url = "https://github.com/chainstack/web3quorum"
 
 [[repo]]
 url = "https://github.com/chainstack/web3quorumUpd"
+
+[[repo]]
+url = "https://github.com/chainstack/x509-certificate-exporter"

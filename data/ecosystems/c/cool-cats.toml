@@ -19,6 +19,9 @@ url = "https://github.com/coolcatsnft/cool-cats-web-components"
 url = "https://github.com/coolcatsnft/coolcats-ui"
 
 [[repo]]
+url = "https://github.com/coolcatsnft/coolcats-ui-components"
+
+[[repo]]
 url = "https://github.com/coolcatsnft/Milk-PoS"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/coolcatsnft/papercats-example"
 
 [[repo]]
 url = "https://github.com/coolcatsnft/PBT"
+
+[[repo]]
+url = "https://github.com/coolcatsnft/pyramid-of-cats"
 
 [[repo]]
 url = "https://github.com/coolcatsnft/safe-react"

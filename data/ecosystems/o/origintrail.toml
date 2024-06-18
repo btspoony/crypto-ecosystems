@@ -97,10 +97,16 @@ url = "https://github.com/OriginTrail/js-libp2p-tcp"
 url = "https://github.com/OriginTrail/kadence"
 
 [[repo]]
+url = "https://github.com/OriginTrail/knowledge-mining-kit"
+
+[[repo]]
 url = "https://github.com/OriginTrail/laravel-docker"
 
 [[repo]]
 url = "https://github.com/OriginTrail/laravel-imap"
+
+[[repo]]
+url = "https://github.com/OriginTrail/neuroweb-docs"
 
 [[repo]]
 url = "https://github.com/OriginTrail/node-interface"
@@ -143,6 +149,9 @@ url = "https://github.com/OriginTrail/ot-whitepaper"
 
 [[repo]]
 url = "https://github.com/OriginTrail/php-json-ld"
+
+[[repo]]
+url = "https://github.com/OriginTrail/PHP_XLSXWriter"
 
 [[repo]]
 url = "https://github.com/OriginTrail/pyld"

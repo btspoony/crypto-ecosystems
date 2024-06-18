@@ -22,10 +22,16 @@ url = "https://github.com/truflation/nft-index-adapter"
 url = "https://github.com/truflation/oracle-adapter"
 
 [[repo]]
+url = "https://github.com/truflation/python-examples"
+
+[[repo]]
 url = "https://github.com/truflation/quickstart"
 
 [[repo]]
 url = "https://github.com/truflation/sample-frontend"
+
+[[repo]]
+url = "https://github.com/truflation/trial"
 
 [[repo]]
 url = "https://github.com/truflation/truflation"

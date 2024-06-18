@@ -61,10 +61,16 @@ url = "https://github.com/Armor-Network/lmdb"
 url = "https://github.com/Armor-Network/m2g_android_miner"
 
 [[repo]]
+url = "https://github.com/Armor-Network/miningcore"
+
+[[repo]]
 url = "https://github.com/Armor-Network/monero-pool"
 
 [[repo]]
 url = "https://github.com/Armor-Network/peatio"
+
+[[repo]]
+url = "https://github.com/Armor-Network/pool-frontend"
 
 [[repo]]
 url = "https://github.com/Armor-Network/rpc-armor"

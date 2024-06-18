@@ -85,6 +85,10 @@ url = "https://github.com/ontio/ONTO"
 url = "https://github.com/ontio/ontology"
 
 [[repo]]
+url = "https://github.com/ontio/ontology-bridge-sc"
+missing = true
+
+[[repo]]
 url = "https://github.com/ontio/ontology-crypto"
 
 [[repo]]
@@ -140,6 +144,7 @@ url = "https://github.com/ontio/ontology-ts-sdk"
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wagon"
+missing = true
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wasm"
@@ -173,3 +178,6 @@ url = "https://github.com/ontio/triones-node-tool"
 
 [[repo]]
 url = "https://github.com/ontio/wagon"
+
+[[repo]]
+url = "https://github.com/ontio/WONG-sc"

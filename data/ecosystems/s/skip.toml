@@ -16,10 +16,19 @@ url = "https://github.com/skip-mev/block-sdk"
 url = "https://github.com/skip-mev/blue-tendermint"
 
 [[repo]]
+url = "https://github.com/skip-mev/cascadia"
+
+[[repo]]
 url = "https://github.com/skip-mev/chain-registry"
 
 [[repo]]
+url = "https://github.com/skip-mev/chaintestutil"
+
+[[repo]]
 url = "https://github.com/skip-mev/comdex"
+
+[[repo]]
+url = "https://github.com/skip-mev/cometbft"
 
 [[repo]]
 url = "https://github.com/skip-mev/config"
@@ -49,6 +58,9 @@ url = "https://github.com/skip-mev/dydx-v4"
 url = "https://github.com/skip-mev/evmos"
 
 [[repo]]
+url = "https://github.com/skip-mev/feemarket"
+
+[[repo]]
 url = "https://github.com/skip-mev/governor"
 
 [[repo]]
@@ -61,7 +73,11 @@ url = "https://github.com/skip-mev/interchaintest"
 url = "https://github.com/skip-mev/juno"
 
 [[repo]]
+url = "https://github.com/skip-mev/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/skip-mev/loadtest"
+missing = true
 
 [[repo]]
 url = "https://github.com/skip-mev/mempool-checker"
@@ -73,13 +89,24 @@ url = "https://github.com/skip-mev/mev-cometbft"
 url = "https://github.com/skip-mev/mev-tendermint"
 
 [[repo]]
+url = "https://github.com/skip-mev/neutron"
+
+[[repo]]
+url = "https://github.com/skip-mev/osmosis"
+
+[[repo]]
 url = "https://github.com/skip-mev/osmosis-protorev"
+missing = true
+
+[[repo]]
+url = "https://github.com/skip-mev/petri"
 
 [[repo]]
 url = "https://github.com/skip-mev/pob"
 
 [[repo]]
 url = "https://github.com/skip-mev/protorev-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/skip-mev/relayer"
@@ -92,6 +119,7 @@ url = "https://github.com/skip-mev/skip-api-contracts"
 
 [[repo]]
 url = "https://github.com/skip-mev/skip-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/skip-mev/skip-go"
@@ -101,6 +129,9 @@ url = "https://github.com/skip-mev/skip-py"
 
 [[repo]]
 url = "https://github.com/skip-mev/skip-router-sdk"
+
+[[repo]]
+url = "https://github.com/skip-mev/skip-types"
 
 [[repo]]
 url = "https://github.com/skip-mev/skipjs"

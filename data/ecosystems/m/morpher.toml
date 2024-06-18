@@ -32,6 +32,7 @@ url = "https://github.com/Morpher-io/eth-lightwallet"
 
 [[repo]]
 url = "https://github.com/Morpher-io/hummingbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpher-io/morpher-wallet-backend"
@@ -50,3 +51,6 @@ url = "https://github.com/Morpher-io/private-network-geth-poa-clique-explorers"
 
 [[repo]]
 url = "https://github.com/Morpher-io/react-native-test-flight"
+
+[[repo]]
+url = "https://github.com/Morpher-io/react-native-wagmi-charts"

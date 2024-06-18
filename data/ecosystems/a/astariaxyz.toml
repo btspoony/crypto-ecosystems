@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/AstariaXYZ"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/AstariaXYZ/astaria-account"
+
+[[repo]]
 url = "https://github.com/AstariaXYZ/astaria-core"
 
 [[repo]]
@@ -22,7 +25,13 @@ url = "https://github.com/AstariaXYZ/astaria-sdk"
 url = "https://github.com/AstariaXYZ/foundry-toolchain"
 
 [[repo]]
+url = "https://github.com/AstariaXYZ/light-account"
+
+[[repo]]
 url = "https://github.com/AstariaXYZ/slither-action"
+
+[[repo]]
+url = "https://github.com/AstariaXYZ/starport-whitepaper"
 
 [[repo]]
 url = "https://github.com/AstariaXYZ/strategy-merkle-spec"

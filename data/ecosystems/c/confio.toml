@@ -17,6 +17,7 @@ url = "https://github.com/confio/burner-chains"
 
 [[repo]]
 url = "https://github.com/confio/chain-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/chat.tgrade.finance"
@@ -98,6 +99,7 @@ url = "https://github.com/confio/mask"
 
 [[repo]]
 url = "https://github.com/confio/matadores-backlog-collection"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/nym"

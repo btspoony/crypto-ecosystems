@@ -61,6 +61,9 @@ url = "https://github.com/alastria/alastria.github.io"
 url = "https://github.com/alastria/AlastriaEPIC"
 
 [[repo]]
+url = "https://github.com/alastria/alastriaID-hardhat-contracts"
+
+[[repo]]
 url = "https://github.com/alastria/alastriaID-truffle-contracts"
 
 [[repo]]
@@ -74,6 +77,18 @@ url = "https://github.com/alastria/did-method-elsi"
 
 [[repo]]
 url = "https://github.com/alastria/docs"
+
+[[repo]]
+url = "https://github.com/alastria/DOME-blockchain_connector-core"
+
+[[repo]]
+url = "https://github.com/alastria/DOME-blockchain_connector-dlt_interface"
+
+[[repo]]
+url = "https://github.com/alastria/DOME-blockchain_connector-orionld_interface"
+
+[[repo]]
+url = "https://github.com/alastria/DOME-blockchain_smart_contracts"
 
 [[repo]]
 url = "https://github.com/alastria/ens"

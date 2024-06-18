@@ -13,6 +13,9 @@ url = "https://github.com/kysenpool/cosmos-sdk"
 url = "https://github.com/kysenpool/GameOfZones"
 
 [[repo]]
+url = "https://github.com/kysenpool/gitbook-docs"
+
+[[repo]]
 url = "https://github.com/kysenpool/kava"
 
 [[repo]]
@@ -32,6 +35,9 @@ url = "https://github.com/kysenpool/public-testnets"
 
 [[repo]]
 url = "https://github.com/kysenpool/relayer"
+
+[[repo]]
+url = "https://github.com/kysenpool/stakewise-helm-charts"
 
 [[repo]]
 url = "https://github.com/kysenpool/terra-oracle"

@@ -10,13 +10,23 @@ github_organizations = ["https://github.com/Typus-Lab"]
 url = "https://github.com/Typus-Lab/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/Typus-Lab/dora-interface"
+
+[[repo]]
 url = "https://github.com/Typus-Lab/sentio-processors"
 
 [[repo]]
+url = "https://github.com/Typus-Lab/sips-big_vector"
+
+[[repo]]
 url = "https://github.com/Typus-Lab/sui-demo-day-hk"
+missing = true
 
 [[repo]]
 url = "https://github.com/Typus-Lab/sui-dev-token"
+
+[[repo]]
+url = "https://github.com/Typus-Lab/tails_partner"
 
 [[repo]]
 url = "https://github.com/Typus-Lab/typus-asset"
@@ -25,7 +35,11 @@ url = "https://github.com/Typus-Lab/typus-asset"
 url = "https://github.com/Typus-Lab/typus-dov"
 
 [[repo]]
+url = "https://github.com/Typus-Lab/typus-framework"
+
+[[repo]]
 url = "https://github.com/Typus-Lab/typus-nft"
+missing = true
 
 [[repo]]
 url = "https://github.com/Typus-Lab/typus-oracle"

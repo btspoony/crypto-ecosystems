@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/protofire"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/protofire/.github"
+
+[[repo]]
 url = "https://github.com/protofire/0x-dashboard"
 
 [[repo]]
@@ -233,6 +236,9 @@ url = "https://github.com/protofire/dev"
 url = "https://github.com/protofire/devgrants"
 
 [[repo]]
+url = "https://github.com/protofire/diadata"
+
+[[repo]]
 url = "https://github.com/protofire/dsa-connectors"
 missing = true
 
@@ -323,6 +329,12 @@ missing = true
 url = "https://github.com/protofire/Grant-Milestone-Delivery"
 
 [[repo]]
+url = "https://github.com/protofire/Grant-Milestone-Delivery-w3f"
+
+[[repo]]
+url = "https://github.com/protofire/Grant-Milestone-Deliveryy"
+
+[[repo]]
 url = "https://github.com/protofire/Grants-Program"
 
 [[repo]]
@@ -372,6 +384,12 @@ url = "https://github.com/protofire/ink-compiler-be"
 url = "https://github.com/protofire/ink-multisig"
 
 [[repo]]
+url = "https://github.com/protofire/ink-multisig-squid-shibuya"
+
+[[repo]]
+url = "https://github.com/protofire/ink-multisig-ui"
+
+[[repo]]
 url = "https://github.com/protofire/instadapp-dsa-subgraph"
 
 [[repo]]
@@ -381,13 +399,25 @@ url = "https://github.com/protofire/integrations-framework"
 url = "https://github.com/protofire/interface"
 
 [[repo]]
+url = "https://github.com/protofire/iotex-client-gateway"
+
+[[repo]]
 url = "https://github.com/protofire/Iotex-ConcordFi-Smart_contracts_Cream_Old"
 
 [[repo]]
 url = "https://github.com/protofire/Iotex-ConcordFi-Smart_contracts_trader_Joe"
 
 [[repo]]
+url = "https://github.com/protofire/iotex-config-service"
+
+[[repo]]
 url = "https://github.com/protofire/iotex-protocol"
+
+[[repo]]
+url = "https://github.com/protofire/iotex-transaction-service"
+
+[[repo]]
+url = "https://github.com/protofire/iotex-web-core"
 
 [[repo]]
 url = "https://github.com/protofire/ipc-agent"
@@ -504,6 +534,12 @@ missing = true
 url = "https://github.com/protofire/node-walletconnect-bridge"
 
 [[repo]]
+url = "https://github.com/protofire/oasis-transaction-service"
+
+[[repo]]
+url = "https://github.com/protofire/oasis-web-core"
+
+[[repo]]
 url = "https://github.com/protofire/ocean-protocol-wallet-android"
 missing = true
 
@@ -585,6 +621,9 @@ url = "https://github.com/protofire/protocol_contracts"
 url = "https://github.com/protofire/protowallet"
 
 [[repo]]
+url = "https://github.com/protofire/prottery-sdk"
+
+[[repo]]
 url = "https://github.com/protofire/ray-subgraph"
 
 [[repo]]
@@ -595,6 +634,9 @@ url = "https://github.com/protofire/remix-solhint-plugin"
 
 [[repo]]
 url = "https://github.com/protofire/revoke.cash"
+
+[[repo]]
+url = "https://github.com/protofire/ride-the-hype-ui"
 
 [[repo]]
 url = "https://github.com/protofire/rootstock-client-gateway"
@@ -610,6 +652,9 @@ url = "https://github.com/protofire/rootstock-wallet-web"
 
 [[repo]]
 url = "https://github.com/protofire/routing-api"
+
+[[repo]]
+url = "https://github.com/protofire/safe-airdrop"
 
 [[repo]]
 url = "https://github.com/protofire/safe-android"
@@ -642,11 +687,17 @@ url = "https://github.com/protofire/safe-docs"
 url = "https://github.com/protofire/safe-eth-py"
 
 [[repo]]
+url = "https://github.com/protofire/safe-events-service"
+
+[[repo]]
 url = "https://github.com/protofire/safe-ios"
 missing = true
 
 [[repo]]
 url = "https://github.com/protofire/safe-modules"
+
+[[repo]]
+url = "https://github.com/protofire/safe-modules-deployments"
 
 [[repo]]
 url = "https://github.com/protofire/safe-react-apps"
@@ -871,6 +922,9 @@ url = "https://github.com/protofire/web3-react-boilerplate"
 
 [[repo]]
 url = "https://github.com/protofire/web3_ethers_guide"
+
+[[repo]]
+url = "https://github.com/protofire/xs-doc"
 
 [[repo]]
 url = "https://github.com/protofire/yearn-vaults"

@@ -25,6 +25,9 @@ url = "https://github.com/line/abc-kmm-shared-storage"
 url = "https://github.com/line/abc-user-feedback"
 
 [[repo]]
+url = "https://github.com/line/aes-gcm-siv"
+
+[[repo]]
 url = "https://github.com/line/apng-drawable"
 
 [[repo]]
@@ -149,6 +152,9 @@ url = "https://github.com/line/grow-loader"
 
 [[repo]]
 url = "https://github.com/line/headver"
+
+[[repo]]
+url = "https://github.com/line/Human-Interaction-Generation"
 
 [[repo]]
 url = "https://github.com/line/iavl"
@@ -334,6 +340,15 @@ url = "https://github.com/line/ns3-rmcat"
 url = "https://github.com/line/ostracon"
 
 [[repo]]
+url = "https://github.com/line/planet-kit-android"
+
+[[repo]]
+url = "https://github.com/line/planet-kit-apple"
+
+[[repo]]
+url = "https://github.com/line/planet-kit-windows"
+
+[[repo]]
 url = "https://github.com/line/promgen"
 
 [[repo]]
@@ -341,6 +356,9 @@ url = "https://github.com/line/recruiting-resources-jp"
 
 [[repo]]
 url = "https://github.com/line/rules_apple_line"
+
+[[repo]]
+url = "https://github.com/line/Skeleton-Temporal-Action-Localization"
 
 [[repo]]
 url = "https://github.com/line/stellite"

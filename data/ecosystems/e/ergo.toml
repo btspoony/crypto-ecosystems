@@ -4,11 +4,15 @@ title = "Ergo"
 sub_ecosystems = [
   "anetaBTC",
   "Azorus",
+  "BlitzTCG",
   "BlobsTopia",
   "ChainCash",
   "Comet",
+  "Crux Finance",
+  "Cyberverse",
   "Dexy",
   "Duckpools",
+  "Ergo Auction Coin",
   "Ergo Auction House",
   "Ergo Developer Tooling",
   "Ergo Education",
@@ -17,19 +21,22 @@ sub_ecosystems = [
   "Ergo Miner Tooling",
   "Ergo Names",
   "Ergo Raffle",
-  "Ergo Stats & Analysis",
   "Ergo Stats and Analysis",
+  "Ergo Wallets",
   "Ergode",
   "ErgoMixer",
   "ErgoPad",
   "ErgoTeam",
   "EXLE",
   "FleetSDK",
+  "Gluon",
   "Grand Gambit",
   "GuapSwap",
+  "HodlcoinERG",
   "Kiosk",
   "LiliumErgo",
   "Lithos Protocol",
+  "Machina Finance",
   "Minotaur",
   "Nautilus",
   "NightOwl Casino",
@@ -39,11 +46,13 @@ sub_ecosystems = [
   "Satergo",
   "SentientFoundation",
   "SigmaFi",
+  "SigmaO",
+  "SigmaO",
   "SigmaUSD",
   "SkyHarbor",
   "Spectrum Finance",
   "Spectrum Labs",
-  "Swamp Audio",
+  "TremendouslyHighFrequency",
   "ZK Treasury",
 ]
 
@@ -137,6 +146,7 @@ url = "https://github.com/ergoplatform/ergo-node-interface-rust"
 
 [[repo]]
 url = "https://github.com/ergoplatform/ergo-p2p"
+missing = true
 
 [[repo]]
 url = "https://github.com/ergoplatform/ergo-playgrounds"
@@ -168,6 +178,9 @@ url = "https://github.com/ergoplatform/ergo-wallet"
 [[repo]]
 url = "https://github.com/ergoplatform/ergo-wallet-app"
 tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/ergoplatform/ergo_avltree_rust"
 
 [[repo]]
 url = "https://github.com/ergoplatform/ergodocs"

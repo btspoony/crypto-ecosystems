@@ -62,12 +62,16 @@ url = "https://github.com/zapproject/hardhat-bsc"
 
 [[repo]]
 url = "https://github.com/zapproject/hardhat-eth"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/hardhat-nft"
 
 [[repo]]
 url = "https://github.com/zapproject/hardhat-pythia"
+
+[[repo]]
+url = "https://github.com/zapproject/horizon-tailwind-react-nextjs"
 
 [[repo]]
 url = "https://github.com/zapproject/hypercore-wasm-experiments"
@@ -139,6 +143,9 @@ url = "https://github.com/zapproject/serum-dex-ui"
 url = "https://github.com/zapproject/simple-hypercore-protocol"
 
 [[repo]]
+url = "https://github.com/zapproject/slidechain"
+
+[[repo]]
 url = "https://github.com/zapproject/snapshot-spaces"
 
 [[repo]]
@@ -161,9 +168,11 @@ url = "https://github.com/zapproject/websocket-oracle-template"
 
 [[repo]]
 url = "https://github.com/zapproject/zap-admin-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/zap-admin-web-eos"
+missing = true
 
 [[repo]]
 url = "https://github.com/zapproject/zap-curve-chart"
@@ -242,6 +251,9 @@ url = "https://github.com/zapproject/zappy"
 
 [[repo]]
 url = "https://github.com/zapproject/zeus-swap"
+
+[[repo]]
+url = "https://github.com/zapproject/zkZNS"
 
 [[repo]]
 url = "https://github.com/zapproject/zpp"

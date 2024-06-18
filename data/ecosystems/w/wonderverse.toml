@@ -7,7 +7,14 @@ github_organizations = ["https://github.com/wondrous-dev"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/wondrous-dev/ai-codereviewer"
+
+[[repo]]
 url = "https://github.com/wondrous-dev/discord-integration"
+missing = true
+
+[[repo]]
+url = "https://github.com/wondrous-dev/ronin-hard-hat"
 
 [[repo]]
 url = "https://github.com/wondrous-dev/source-control-integrations"

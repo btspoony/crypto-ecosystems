@@ -148,6 +148,9 @@ url = "https://github.com/aleph-im/front-aleph-core"
 url = "https://github.com/aleph-im/front-aleph-website-page"
 
 [[repo]]
+url = "https://github.com/aleph-im/front-core"
+
+[[repo]]
 url = "https://github.com/aleph-im/grub"
 
 [[repo]]
@@ -205,6 +208,9 @@ url = "https://github.com/aleph-im/saber-info"
 url = "https://github.com/aleph-im/serum-dex-ui"
 
 [[repo]]
+url = "https://github.com/aleph-im/signature-based-encryption"
+
+[[repo]]
 url = "https://github.com/aleph-im/simple-dapp"
 
 [[repo]]
@@ -214,7 +220,17 @@ url = "https://github.com/aleph-im/SmartContract"
 url = "https://github.com/aleph-im/step-info"
 
 [[repo]]
+url = "https://github.com/aleph-im/superfluid.py"
+
+[[repo]]
 url = "https://github.com/aleph-im/token-list"
 
 [[repo]]
 url = "https://github.com/aleph-im/uniswap-info"
+
+[[repo]]
+url = "https://github.com/aleph-im/vm-operator-control"
+
+[[repo]]
+url = "https://github.com/aleph-im/vm-operator-control-frontend"
+missing = true

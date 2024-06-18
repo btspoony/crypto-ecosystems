@@ -17,9 +17,11 @@ url = "https://github.com/KILTprotocol/Acala"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/attestations-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/KILTprotocol/attester"
+missing = true
 
 [[repo]]
 url = "https://github.com/KILTprotocol/bench-bot"
@@ -32,6 +34,7 @@ url = "https://github.com/KILTprotocol/CertifiedProof"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/claimed-addresses"
+missing = true
 
 [[repo]]
 url = "https://github.com/KILTprotocol/command-bot"
@@ -67,6 +70,9 @@ url = "https://github.com/KILTprotocol/did-spec-registries"
 url = "https://github.com/KILTprotocol/did-test-suite"
 
 [[repo]]
+url = "https://github.com/KILTprotocol/dip-sdk"
+
+[[repo]]
 url = "https://github.com/KILTprotocol/docs"
 
 [[repo]]
@@ -77,6 +83,7 @@ url = "https://github.com/KILTprotocol/ismp-rs"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/kilt-api-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/KILTprotocol/kilt-community-wallet"
@@ -119,6 +126,7 @@ url = "https://github.com/KILTprotocol/local-parachain-setup"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/migrations"
+missing = true
 
 [[repo]]
 url = "https://github.com/KILTprotocol/namespaces"
@@ -254,3 +262,6 @@ url = "https://github.com/KILTprotocol/workbench-js"
 
 [[repo]]
 url = "https://github.com/KILTprotocol/xcm-simulator"
+
+[[repo]]
+url = "https://github.com/KILTprotocol/zombienet"

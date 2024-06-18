@@ -17,15 +17,19 @@ url = "https://github.com/handle-fi/graph-node"
 
 [[repo]]
 url = "https://github.com/handle-fi/handle-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/handle-fi/handle-psm"
+missing = true
 
 [[repo]]
 url = "https://github.com/handle-fi/handle-routes"
+missing = true
 
 [[repo]]
 url = "https://github.com/handle-fi/handle-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/handle-fi/handle-subgraph"
@@ -35,3 +39,6 @@ url = "https://github.com/handle-fi/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/handle-fi/studio"
+
+[[repo]]
+url = "https://github.com/handle-fi/tcp_env_logger"

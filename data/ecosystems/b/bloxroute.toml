@@ -10,6 +10,13 @@ github_organizations = ["https://github.com/bloXroute-Labs"]
 url = "https://github.com/bloXroute-Labs/aiofluent"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/aori-integration"
+missing = true
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/aori-integration-rs"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/atlas-examples"
 
 [[repo]]
@@ -23,6 +30,7 @@ url = "https://github.com/bloXroute-Labs/bitcoin-unlimited-internal-gateway"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bloxroute-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bloxroute-sdk-go"
@@ -41,6 +49,9 @@ url = "https://github.com/bloXroute-Labs/bsc-sentry-patch"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/builder-ws"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/bx-mev-tools"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/bxcommon"
@@ -82,6 +93,9 @@ url = "https://github.com/bloXroute-Labs/mev-inspect-rs"
 url = "https://github.com/bloXroute-Labs/mev-relay"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/mev-relay-proxy"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/ontology"
 
 [[repo]]
@@ -101,6 +115,7 @@ url = "https://github.com/bloXroute-Labs/relay-grpc"
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/solana-go"
@@ -124,7 +139,17 @@ url = "https://github.com/bloXroute-Labs/terraform-alicloud-vpc"
 url = "https://github.com/bloXroute-Labs/terraform-aws-enforce-mfa"
 
 [[repo]]
+url = "https://github.com/bloXroute-Labs/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/uniswap-routing-api"
+
+[[repo]]
+url = "https://github.com/bloXroute-Labs/uniswap-unified-routing-api"
+
+[[repo]]
 url = "https://github.com/bloXroute-Labs/upscale-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/bloXroute-Labs/uvloop"

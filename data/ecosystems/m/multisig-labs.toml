@@ -31,6 +31,9 @@ url = "https://github.com/multisig-labs/avalanche-wallet"
 url = "https://github.com/multisig-labs/avalanchego"
 
 [[repo]]
+url = "https://github.com/multisig-labs/bpay-subnet"
+
+[[repo]]
 url = "https://github.com/multisig-labs/caddyapi"
 
 [[repo]]
@@ -47,6 +50,9 @@ url = "https://github.com/multisig-labs/foundry-test-action"
 
 [[repo]]
 url = "https://github.com/multisig-labs/gogoavailability"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogocode-tester"
 
 [[repo]]
 url = "https://github.com/multisig-labs/GoGoDash"
@@ -80,6 +86,12 @@ url = "https://github.com/multisig-labs/joe-tokenlists"
 
 [[repo]]
 url = "https://github.com/multisig-labs/multi-party-sig"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia-ui"
 
 [[repo]]
 url = "https://github.com/multisig-labs/Panopticon"

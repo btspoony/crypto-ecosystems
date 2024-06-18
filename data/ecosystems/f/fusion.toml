@@ -34,6 +34,9 @@ url = "https://github.com/FUSIONFoundation/dcrm-java"
 url = "https://github.com/FUSIONFoundation/dcrm-sdk"
 
 [[repo]]
+url = "https://github.com/FUSIONFoundation/DefiLlama-chainlist"
+
+[[repo]]
 url = "https://github.com/FUSIONFoundation/dev-cli"
 
 [[repo]]
@@ -59,12 +62,16 @@ url = "https://github.com/FUSIONFoundation/FRC759-1"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/fsn-netstats"
+missing = true
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/fsn-stats"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/go-fusion"
+
+[[repo]]
+url = "https://github.com/FUSIONFoundation/multicall"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/myfusionwallet"
@@ -77,6 +84,7 @@ url = "https://github.com/FUSIONFoundation/overflow"
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/PSNBlockExplorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/FUSIONFoundation/PurchaseTicket"

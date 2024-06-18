@@ -16,6 +16,9 @@ url = "https://github.com/weavedb/fpjson"
 url = "https://github.com/weavedb/fpjson-website"
 
 [[repo]]
+url = "https://github.com/weavedb/nostr-relay"
+
+[[repo]]
 url = "https://github.com/weavedb/roidjs"
 
 [[repo]]
@@ -38,3 +41,6 @@ url = "https://github.com/weavedb/weavedb-docs"
 
 [[repo]]
 url = "https://github.com/weavedb/webmax.js"
+
+[[repo]]
+url = "https://github.com/weavedb/zkjson"

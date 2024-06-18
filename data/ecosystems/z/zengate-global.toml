@@ -1,8 +1,8 @@
 # Ecosystem Level Information
-title = "ZenGate Global"
+title = "zenGate Global"
 
 sub_ecosystems = []
 
-github_organizations = []
+github_organizations = ["https://github.com/zenGate-Global"]
 
 # Repositories

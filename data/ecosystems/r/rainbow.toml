@@ -14,12 +14,16 @@ url = "https://github.com/rainbow-me/assets"
 
 [[repo]]
 url = "https://github.com/rainbow-me/assets-uploader"
+missing = true
 
 [[repo]]
 url = "https://github.com/rainbow-me/bpp"
 
 [[repo]]
 url = "https://github.com/rainbow-me/browser-extension"
+
+[[repo]]
+url = "https://github.com/rainbow-me/bx-vault-extractor"
 
 [[repo]]
 url = "https://github.com/rainbow-me/clipboard"
@@ -29,6 +33,7 @@ url = "https://github.com/rainbow-me/directus"
 
 [[repo]]
 url = "https://github.com/rainbow-me/echo-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/rainbow-me/eslint-config-rainbow"

@@ -104,6 +104,9 @@ url = "https://github.com/rocket-pool/rocketpool-research"
 url = "https://github.com/rocket-pool/rocketpool-router"
 
 [[repo]]
+url = "https://github.com/rocket-pool/rocketpool-scroll-oracle"
+
+[[repo]]
 url = "https://github.com/rocket-pool/rocketpool-utils"
 
 [[repo]]
@@ -147,6 +150,10 @@ url = "https://github.com/rocket-pool/verify-v1.1"
 
 [[repo]]
 url = "https://github.com/rocket-pool/verify-v1.1-hotfix"
+
+[[repo]]
+url = "https://github.com/rocket-pool/w3cli-image"
+missing = true
 
 [[repo]]
 url = "https://github.com/rocket-pool/web3.js"

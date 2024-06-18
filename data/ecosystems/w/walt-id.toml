@@ -28,10 +28,19 @@ url = "https://github.com/walt-id/Grant-Milestone-Delivery"
 url = "https://github.com/walt-id/Grants-Program"
 
 [[repo]]
+url = "https://github.com/walt-id/multiformat-kotlin-multiplatform"
+
+[[repo]]
 url = "https://github.com/walt-id/opa"
 
 [[repo]]
 url = "https://github.com/walt-id/waltid-client-api"
+
+[[repo]]
+url = "https://github.com/walt-id/waltid-credentials"
+
+[[repo]]
+url = "https://github.com/walt-id/waltid-identity"
 
 [[repo]]
 url = "https://github.com/walt-id/waltid-idpkit"
@@ -110,6 +119,7 @@ url = "https://github.com/walt-id/waltid-walletkit"
 
 [[repo]]
 url = "https://github.com/walt-id/waltid-web-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/walt-id/waltid-web-wallet-deprecated"

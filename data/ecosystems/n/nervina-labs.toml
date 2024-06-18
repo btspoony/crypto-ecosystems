@@ -14,12 +14,17 @@ url = "https://github.com/Magickbase/godwoken_explorer"
 
 [[repo]]
 url = "https://github.com/nervina-labs/aliyun-oss-ruby-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervina-labs/axon-faucet"
 
 [[repo]]
 url = "https://github.com/nervina-labs/ckb-cota-scripts"
+missing = true
+
+[[repo]]
+url = "https://github.com/nervina-labs/ckb-dex-sdk"
 
 [[repo]]
 url = "https://github.com/nervina-labs/ckb-lib-c-script"
@@ -38,9 +43,11 @@ url = "https://github.com/nervina-labs/ckb-time-scripts"
 
 [[repo]]
 url = "https://github.com/nervina-labs/compact-nft-smt"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervina-labs/compact-nft-smt-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervina-labs/cota-aggregator"
@@ -67,6 +74,9 @@ url = "https://github.com/nervina-labs/cota-smt-go"
 url = "https://github.com/nervina-labs/cota-syncer"
 
 [[repo]]
+url = "https://github.com/nervina-labs/dob-render-sdk"
+
+[[repo]]
 url = "https://github.com/nervina-labs/docs"
 
 [[repo]]
@@ -82,22 +92,46 @@ url = "https://github.com/nervina-labs/general_nft_license"
 url = "https://github.com/nervina-labs/heroku-buildpack-ruby"
 
 [[repo]]
+url = "https://github.com/nervina-labs/joyid-bitcoin-demo"
+
+[[repo]]
 url = "https://github.com/nervina-labs/joyid-docs"
 
 [[repo]]
 url = "https://github.com/nervina-labs/joyid-ethers-demo"
 
 [[repo]]
+url = "https://github.com/nervina-labs/joyid-evm-aa-demo"
+
+[[repo]]
 url = "https://github.com/nervina-labs/joyid-evm-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-evm-web2login-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-i18n-resources"
 
 [[repo]]
 url = "https://github.com/nervina-labs/joyid-lib-demo"
 
 [[repo]]
+url = "https://github.com/nervina-labs/joyid-mini-app-demo"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-rainbow-kit-demo"
+
+[[repo]]
 url = "https://github.com/nervina-labs/joyid-react-native-demo"
 
 [[repo]]
+url = "https://github.com/nervina-labs/joyid-rgbpp-demo"
+
+[[repo]]
 url = "https://github.com/nervina-labs/joyid-sdk-go"
+
+[[repo]]
+url = "https://github.com/nervina-labs/joyid-sdk-js"
 
 [[repo]]
 url = "https://github.com/nervina-labs/joyid-smt"

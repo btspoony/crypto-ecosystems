@@ -259,6 +259,9 @@ url = "https://github.com/starcoinorg/starcoin.dart"
 url = "https://github.com/starcoinorg/starcoin.js"
 
 [[repo]]
+url = "https://github.com/starcoinorg/starcoin2-java"
+
+[[repo]]
 url = "https://github.com/starcoinorg/starcoin_miner_guide"
 
 [[repo]]
@@ -350,6 +353,9 @@ url = "https://github.com/starcoinorg/stc-onekey-keyring-dev"
 
 [[repo]]
 url = "https://github.com/starcoinorg/stc-query"
+
+[[repo]]
+url = "https://github.com/starcoinorg/stc-scriptions"
 
 [[repo]]
 url = "https://github.com/starcoinorg/stc-simple-keyring"

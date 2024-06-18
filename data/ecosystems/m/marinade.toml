@@ -25,6 +25,9 @@ url = "https://github.com/marinade-finance/delegation-strategy-2"
 url = "https://github.com/marinade-finance/delegation-strategy-pipeline"
 
 [[repo]]
+url = "https://github.com/marinade-finance/ds-playground"
+
+[[repo]]
 url = "https://github.com/marinade-finance/elusiv"
 
 [[repo]]
@@ -71,6 +74,7 @@ url = "https://github.com/marinade-finance/marinade-common-rs-cli"
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-gitbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/marinade-onchain-helper"
@@ -137,6 +141,7 @@ url = "https://github.com/marinade-finance/solana-snapshot-etl"
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-finder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/solana-snapshot-manager"
@@ -161,6 +166,7 @@ url = "https://github.com/marinade-finance/token-list"
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-list-builder"
+missing = true
 
 [[repo]]
 url = "https://github.com/marinade-finance/token-vesting"
@@ -170,6 +176,9 @@ url = "https://github.com/marinade-finance/tribeca"
 
 [[repo]]
 url = "https://github.com/marinade-finance/tribeca-non-quarry-config"
+
+[[repo]]
+url = "https://github.com/marinade-finance/validator-bonds"
 
 [[repo]]
 url = "https://github.com/marinade-finance/vipers"
